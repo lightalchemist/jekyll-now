@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes on building on &ast;nix system
+title: Notes on build tools
 ---
 
 ## gcc
