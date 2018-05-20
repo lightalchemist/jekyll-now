@@ -4,9 +4,6 @@ title: Notes on building on &ast;nix system
 sitemap: false
 ---
 
-{{ page.title }}
-================
-
 ## gcc
 
 List locations where gcc is looking for header files
