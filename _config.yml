@@ -75,3 +75,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Show posts with dates set in the future
+future: true
