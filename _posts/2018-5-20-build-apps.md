@@ -3,6 +3,16 @@ layout: post
 Notes on building on &ast;nix system
 ---
 
+## gcc
+
+Ask gcc where it is looking for header files
+```bash
+# For C++
+`gcc -print-prog-name=cc1plus` -v
+# For C
+`gcc -print-prog-name=cc1` -v
+```
+
 ## Autotools
 
 List options
