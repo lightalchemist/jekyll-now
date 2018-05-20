@@ -1,7 +1,6 @@
 ---
 layout: post
-
-Notes on Randomized Numerical Linear Algebra
+title: Randomized Numerical Linear Algebra
 ---
 
 ## Summary
