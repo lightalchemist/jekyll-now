@@ -1,6 +1,6 @@
 
 ---
 layout: post
-publish: false
+published: false
 Notes on sentence embedding
 ---
