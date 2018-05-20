@@ -1,7 +1,11 @@
 ---
 layout: post
-Notes on building on &ast;nix system
+title: Notes on building on &ast;nix system
+sitemap: false
 ---
+
+{{ page.title }}
+================
 
 ## gcc
 
