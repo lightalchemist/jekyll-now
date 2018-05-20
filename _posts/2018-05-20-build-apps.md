@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Notes on building on &ast;nix system
-sitemap: false
 ---
 
 ## gcc
