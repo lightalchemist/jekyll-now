@@ -78,3 +78,6 @@ exclude:
 
 # Show posts with dates set in the future
 future: true
+
+# Jekyll theme
+theme: jekyll-theme-minimal
